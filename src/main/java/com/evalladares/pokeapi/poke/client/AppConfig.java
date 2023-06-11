@@ -1,4 +1,4 @@
-package com.evalladares.pokeapi.client;
+package com.evalladares.pokeapi.poke.client;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

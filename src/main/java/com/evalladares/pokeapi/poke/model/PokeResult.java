@@ -1,4 +1,4 @@
-package com.evalladares.pokeapi.model;
+package com.evalladares.pokeapi.poke.model;
 
 import lombok.Getter;
 import lombok.Setter;
